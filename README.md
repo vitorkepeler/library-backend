@@ -10,6 +10,7 @@ Feito ✅:
 O que falta ❌:
 
 - Troca de dados entre camadas não está adequada; 
+- Rota para update de um livro;
 - Filtros para listagem de livros;
 - Rota para login;
 - Autenticação via Bearer Token (JWT)
